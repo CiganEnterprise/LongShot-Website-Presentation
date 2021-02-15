@@ -68,7 +68,7 @@ as well realised with SASS, Javascript and Jquery.
 
 ## Technologies
 
-The technologies I've used for this project are HTML5, SASS, Bootstrap, FontAwesome, Javascript, JQuery,
+The technologies I've used for this project are HTML5, SASS, Bootstrap, Javascript, JQuery,
 PHP Laravel and mysql database.
 
 ## Future Development
